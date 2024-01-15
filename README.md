@@ -17,7 +17,7 @@ This is a simple Python script using Selenium to automate the process of logging
 
 ## Usage
 
-1. Run the script: `python instagram_follower_bot.py`.
+1. Run the script: `python main.py`.
 2. The script will open a Chrome browser, log in to your Instagram account, and navigate to the followers of the specified account.
 3. It will start following the followers.
 
