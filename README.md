@@ -11,7 +11,7 @@ This is a simple Python script using Selenium to automate the process of logging
 
 ## Configuration
 
-1. Open the script (`instagram_follower_bot.py`) in a text editor.
+1. Open the script (`main.py`) in a text editor.
 2. Replace `YOUR_USERNAME` and `YOUR_PASSWORD` with your Instagram credentials.
 3. Update `SIMILAR_ACCOUNT` with the username of the account whose followers you want to follow.
 
